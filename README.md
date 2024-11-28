@@ -2,7 +2,7 @@
 ![python version](https://img.shields.io/static/v1?label=python&message=3.8&color=2196F3)
 ![code size](https://img.shields.io/github/languages/code-size/hadiMh/ceasar_algorithm_cipher_and_deciphering?color=2196F3)
 ![license](https://img.shields.io/static/v1?label=license&message=MIT&color=green)
-### by M.Hadi Hajihosseini
+### by P.GOKUL SAI
 
 This is a simple program that can decode Ceasar ciphers.
 
