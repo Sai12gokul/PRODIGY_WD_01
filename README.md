@@ -109,12 +109,8 @@ First result: YOU Can use this cipher to test this CoDe
 
 ## Author:
 
-### **M.Hadi Hajihosseini**
+### **P.GOKUL SAI**
 
-* [Github](https://github.com/hadiMh)
+* [Github](https://github.com/Sai12gokul)
 * [Instagram](https://instagram.com/m.hadi.hajihosseini)
 
-### License
-
-Copyright © 2021, [M.Hadi Hajihosseini](https://github.com/hadiMh).
-Released under the [MIT License](LICENSE).
